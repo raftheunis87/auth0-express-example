@@ -1,0 +1,6 @@
+{
+  "extends": ["rallycoding"],
+  "rules": {
+    "max-len": [1, 500, 2, {"ignoreUrls": true, "ignoreComments": false}]
+  }
+}
